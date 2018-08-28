@@ -1,0 +1,38 @@
+{
+    "items": [
+      {
+        "title":"Home",
+        "route":"user/home",
+        "icon":"fa fa-lg fa-fw fa-home"
+      },{
+        "title":"Jadwal",
+        "route":"user/jadwal",
+        "icon":"fa fa-lg fa-fw fa-calendar-o"
+      },{
+        "title":"Nilai",
+        "route":"user/nilai",
+        "icon":"fa fa-lg fa-fw fa-calendar-o"
+      },{
+        "title":"Tugas Sekolah",
+        "route":"user/tugas",
+        "icon":"fa fa-lg fa-fw fa-book"
+      },{
+        "title":"History Pencapaian",
+        "route":"user/pencapaian",
+        "icon":"fa fa-lg fa-fw fa-trophy"
+      },{
+        "title":"History Kehadiran",
+        "route":"user/absen",
+        "icon":"fa fa-lg fa-fw fa-check-square-o"
+      },{
+        "title":"History Konseling",
+        "route":"user/konseling",
+        "icon":"fa fa-lg fa-fw fa-heart"
+      },{
+        "title":"Evaluasi Belajar",
+        "route":"user/evaluasi",
+        "icon":"fa fa-lg fa-fw fa-edit"
+      }
+  
+    ]
+  }
